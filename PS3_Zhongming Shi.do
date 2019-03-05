@@ -202,16 +202,5 @@ as now we are estimating the "marginal effect" depending on the household's inco
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+*4
+For this part, I just keep urban==1 and urban==0 and then run the codes again. For breivity, I don't list the results here.
